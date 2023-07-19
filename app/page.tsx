@@ -13,8 +13,8 @@ export default function Home() {
   };
 
   return (
-    <div>
-      <div>
+    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+      <div className = "p-4 shadow-md bg-white rounded-md">
         <h1>Enter Your Name</h1>
       </div>
       <form onSubmit={handleSubmit}>
