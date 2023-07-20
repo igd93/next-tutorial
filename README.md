@@ -9,3 +9,6 @@ Then:
 ```bash
 npm run dev
 ```
+
+## To-do
+-- Fix tailwind stylings
